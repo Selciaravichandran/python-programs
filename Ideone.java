@@ -19,11 +19,11 @@ class Ideone
  
         //check condition for +ve, -ve and Zero
         if(num>0)
-            System.out.println(num + " is Positive.");
+            System.out.println("Positive");
         else if(num<0)
-            System.out.println(num + " is Negative.");
+            System.out.println("Negative");
         else
-            System.out.println(" Zero.");
+            System.out.println("Zero");
  
     }
 }
